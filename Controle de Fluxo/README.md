@@ -16,6 +16,6 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 
 ## Abaixo segue imagens do desafio resolvido.
 
-![alt text](image-1.png)Resultado com os parametros atendidos.
+([image-1.png](https://github.com/jabneelpereira/dio-trilha-java-basico/blob/main/Controle%20de%20Fluxo/img/image-1.png)) Resultado com os parametros atendidos.
 
-![alt text](image-2.png) Resultado quando ocorre a exceção.
+([image-2.png](https://github.com/jabneelpereira/dio-trilha-java-basico/blob/main/Controle%20de%20Fluxo/img/image-2.png)) Resultado quando ocorre a exceção.
